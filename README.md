@@ -1,0 +1,2 @@
+# myImgBed
+storage of img
